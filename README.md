@@ -16,8 +16,7 @@ Welcome to my GitHub portfolio! I’m Dibash Adhikari, an  IT graduate with a so
 
 ### 🔹 **IT Support Technician**  
 **TES-AMM Australia Pty Ltd** (2022 – 2023)  
-
-- Provided support for imaging, application installation, asset tagging, and asset management while handling deployments, data wiping, and destruction.
+-Provided support for imaging, application installation, asset tagging, and asset management while handling deployments, data wiping, and destruction.
    
 -Conducted software and hardware testing, maintained IT assets, and delivered reports to team leaders.
 
