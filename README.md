@@ -32,7 +32,7 @@ Welcome to my GitHub portfolio! I’m Dibash Adhikari, an  IT graduate with a so
 ## 🎓 Education & Certification
 
 - **Bachelor of Information Technology (Network Security)** — Melbourne Polytechnic  
-- **Certificate IV in Cyber Security (Ongoing)** — Melbourne Polytechnic  
+- **Certificate IV in Cyber Security** — Melbourne Polytechnic  
 - **Certifications:**  
   - AWS Academy Cloud Foundations  
   - Certified in Cybersecurity (ISC2)  
